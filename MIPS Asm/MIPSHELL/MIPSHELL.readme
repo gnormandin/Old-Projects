@@ -1,0 +1,3 @@
+MIPSHELL is an old project entered into a MIPS assembler class. 
+It is a pseudoshell with a few builtin programs. 
+Run it from SPIM, not guaranteed to run on real hardware. 
